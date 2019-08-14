@@ -9,3 +9,5 @@
 ssh无密码登录设置出现问题 ECDSA host key 和IP地址对应的key不同的解决
 
 ssh-keygen -R "你的远程服务器ip地址
+
+chmod a+x ./ss-fly/ss-fly.sh
