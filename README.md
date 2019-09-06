@@ -1,3 +1,5 @@
+https://my.vultr.com 选择Ubuntu系统
+
 1. ssh root@8.9.31.167       账号密码
 
 2. git clone https://github.com/Zhuzhen6/ss-fly 
