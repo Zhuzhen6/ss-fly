@@ -1,4 +1,4 @@
 { 
 "appID": "4H24B2L637.com.yunmai.calvin.magicmirror",    
-"paths": ["/magicmirror/*"]
+"paths": ["*"]
 }
